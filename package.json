@@ -1,5 +1,5 @@
 {
-  "name": "bower-webpack-plugin",
+  "name": "ancestry-bower-webpack-plugin",
   "version": "0.1.8",
   "description": "Use bower with webpack",
   "main": "lib/bower-plugin.js",
